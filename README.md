@@ -27,4 +27,8 @@
     <a href="https://www.linkedin.com/in/felipe-alves-2696421a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
     ![Snake animation](https://github.com/alvfelipe/alvfelipe/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/snom0191/snom0191/blob/output/github-contribution-grid-snake.svg)
+
+
 </div>
