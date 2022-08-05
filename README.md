@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe.
   
 - 🔍 Objetivo: trabalhar com Front-End
-- 📚 3º Semestre - Análise e Desenvolvimento de Sistemas
+- 📚 4º Semestre - Análise e Desenvolvimento de Sistemas
 - 💻 Estudando HTML, CSS, JavaScript, MySQL, OO, Java e C
 - ✉️ Contate-me no email: felipealvesdasilva552@gmail.com
 
