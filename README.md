@@ -2,8 +2,6 @@
   
 - 🔍 Objetivo: trabalhar com Front-End
 - 📚 4º Semestre - Análise e Desenvolvimento de Sistemas
-- 💻 Estudando HTML, CSS, JavaScript, MySQL, OO, Java e C
-- ✉️ Contate-me no email: felipealvesdasilva552@gmail.com
 
 <html>
 <div align="center">
