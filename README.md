@@ -15,8 +15,8 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg" />
+  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rubyonrails.svg" />
 </div>
   
 ##
