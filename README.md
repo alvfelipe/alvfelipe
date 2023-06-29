@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe.
   
-- 🔍 Objetivo: trabalhar com Front-End
+- 🔍 Objetivo: ser um desenvolvedor FullStack
 - 📚 4º Semestre - Análise e Desenvolvimento de Sistemas
 
 <html>
