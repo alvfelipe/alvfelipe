@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe.
   
 - 🔍 Objetivo: ser um desenvolvedor FullStack
-- 📚 4º Semestre - Análise e Desenvolvimento de Sistemas
+- 📚 8º Semestre - Análise e Desenvolvimento de Sistemas
 
 <html>
 <div align="center">
